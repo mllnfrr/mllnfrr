@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Mei @mllnfrr
 - 👀 I’m interested in frontend skills. 
-- 🌱 I’m currently learning about Angular, JAVA and C. 
+- 🌱 I’m currently learning about JAVA.
 - 📫 How to reach me Meiriellen Cavalcante on LinkedIn
 
 <!---
